@@ -1,2 +1,2 @@
-# The hat
-this os for tutorial purpose 
+i# The hat
+this is for tutorial purpose 
